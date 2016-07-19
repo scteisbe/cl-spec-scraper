@@ -1,0 +1,19 @@
+{
+  "name": "cl-spec-scraper",
+  "version": "0.0.0",
+  "main": "scrape.js",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "request": "^2.73.0",
+    "x-ray": "^2.3.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "^4.4.0",
+    "npm": "^2.14.20"
+  },
+  "scripts": {
+  },
+  "private": true
+}
