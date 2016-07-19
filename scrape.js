@@ -14,7 +14,7 @@ var url = 'http://www.cablelabs.com/wp-admin/admin-ajax.php';
 var html = '';
 var results = [];
 var currentPage = 1;
-var maxPage = 3;
+var maxPage = 1;
 
 console.log("Running");
 getNextPage();
